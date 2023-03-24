@@ -11,6 +11,11 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Congratulations on your acceptance to UCSC Department of Computer Science and Engineering!  
+Draft Schedule:
+- 10:00am-11:30am: Campus tour/optional housing tour  (Grad student volunteers)
+- 11:30am-1pm: Lunch (lightening faculty presentations) 
+- 1-3pm: Area specific meetings and lab tours
+- 3:30-6:30pm: Grad student social at the Seymour center
 
 
 
